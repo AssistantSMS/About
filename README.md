@@ -7,4 +7,4 @@ This organisation revolves around the **Assistant for Scrap Mechanic** apps avai
 [![Progressive Web App](https://github.com/AssistantSMS/App/blob/master/web/store-web.png?raw=true)](https://scrapAssistant.com)
 
 ## More links
-- It's all Widgets *(Coming soon)*
+- [It's all Widgets](https://itsallwidgets.com/assistant-for-scrap-mechanic)
